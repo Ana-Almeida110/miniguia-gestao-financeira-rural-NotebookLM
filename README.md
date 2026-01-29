@@ -1,0 +1,1 @@
+# miniguia-de-gest-o-financeira-para-propriedades-rurais-com-NotebookLM
